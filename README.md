@@ -1,8 +1,8 @@
-# Twiiter Ui 
+# Interface do Twitter
 
-A simplified version of Twitter with its old UI.
+Uma versão simplificada do Twitter com sua interface antiga.
 
-## Technologies:
+## Tecnologias:
 
 Vite
 ReactJs
@@ -12,6 +12,6 @@ Phosphor React
 
 
 
-## View project here:
+## Veja o projeto aqui no link:
 
 https://ui-twitter-psi.vercel.app/
